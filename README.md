@@ -35,7 +35,7 @@ This project analyzes **customer churn patterns**, builds **predictive models**,
 ---
 
 ## 📂 Project Files  
-📌 **Main Notebook:** [PROJECT_UNDER_SAIKET_SYSTEM.ipynb]("C:\Users\Lenovo\Downloads\project\PROJECT_UNDER_SAIKET_SYSTEM.ipynb")  
+📌 **Main Notebook:** [PROJECT_UNDER_SAIKET_SYSTEM.ipynb]https://github.com/juhi-shahi/customer-churn-prediction/blob/main/PROJECT_UNDER_SAIKET_SYSTEM.ipynb  
 
 
 ---
